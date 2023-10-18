@@ -1,0 +1,12 @@
+Key,Path,Loop,Volume
+scurve-traffic-lights-success,Voice Over/TM-1/tm1-welcome,FALSE,1
+scurve-traffic-lights-warning,Voice Over/TM-1/scurve-traffic-lights-warning,FALSE,1
+tm1-intro,Voice Over/TM-1/tm1-intro,FALSE,1
+tm1-move-after-traffic-lights,Voice Over/TM-1/tm1-move-after-traffic-lights,FALSE,1
+tm1-start-moving,Voice Over/TM-1/tm1-start-moving,FALSE,1
+tm1-stop-at-traffic-lights,Voice Over/TM-1/tm1-stop-at-traffic-lights,FALSE,1
+tm1-weather-condition-change-reduce-speed,Voice Over/TM-1/tm1-weather-condition-change-reduce-speed,FALSE,1
+tm1-welcome,Voice Over/TM-1/tm1-welcome,FALSE,1
+traffic-lights-importance-warning,Voice Over/TM-1/traffic-lights-importance-warning,FALSE,1
+traffic-lights-reset,Voice Over/TM-1/traffic-lights-reset,FALSE,1
+traffic-lights-warning,Voice Over/TM-1/traffic-lights-warning,FALSE,1

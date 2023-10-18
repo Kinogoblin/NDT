@@ -1,0 +1,306 @@
+Key,English
+username,User Name
+password,Password
+submit,Login
+offline-mode,Offline Mode
+user,User:
+project-name,Driver Training
+offline-title,(Offline)
+start,Start
+continue,Continue
+start-tutorial,Start Tutorial
+settings,Settings
+controls,Controls
+back,Back
+ready,Ready
+reset-tutorial,Reset Tutorial
+logout,Logout
+admin,Admin
+sfx,SFX Volume
+vo,VO Volume
+admin-title,Administrator Screen
+login-title,Login
+required-module-title,Your Modules:
+extra-module-title,Extra
+demo-scene-btn,Demo Scene
+begin-training,Begin
+begin-assessment,Begin Assessment
+exit,Exit
+restart,Restart
+pause-menu-title,(PAUSED)
+pause,Pause
+inventory,Inventory
+hazard,Hazard
+call,Call
+set-speed,Set Speed
+set-speed-instruction,"Use the gas and brake buttons to set an appropriate speed for this situation as shown on the speedometer below, then press Confirm Speed."
+confirm-speed, Confirm Speed
+mph,mph
+brake,Brake
+gas,Gas
+increase-speed,"Increase speed"
+decrease-speed,"Decrease speed"
+exit-vehicle,"Exit Vehicle"
+lights,Lights
+weather,Weather
+day/night,Day/Night
+map,MAP
+hint,Hint
+close,Close
+good,Good
+great,Great
+good-job,"Good job."
+welcome,Welcome to the tutorial
+try-again,"Try again"
+tm-high-cog-1,"High Center-of-Gravity 1"
+tm-high-cog-2,"High Center-of-Gravity 2"
+tm-railroad,"Railroad"
+tm-cargo-strap,"Cargo Strap"
+tm-cargo-fall,"Cargo Fall"
+tm-farm-entrance,"Farm Entrance"
+tm-soft-shoulder,"Soft Shoulder"
+tm1,"TM-HighCog1"
+tm2,"TM-Railroad"
+tm3,"TM-HighCog2"
+tm4-strap,"TM-CargoStrap"
+tm4,"TM-CargoFall"
+tm5,"TM-FarmEntrance"
+tm6,"TM-SoftShoulder"
+test-turn-1, Turn 1
+test-turn-2, Turn 2
+welcome-to-nutrien,"Welcome to Nutrien driver training. You will learn how to drive vehicles with caution and avoid accidents."
+question-choose-route,Choose an appropriate route
+fail-road-narrow,This road is too narrow to navigate safely. Press Continue to try a different entrance.
+pass-road-wide,"Good job – that entrance was too narrow to navigate safely, so let’s look for an alternative"
+fail-entrance-narrow,This entrance is too narrow to enter safely
+pass-entrance-wide,This entrance is wide enough to enter
+fail-arc-narrow,The turning arc was too narrow so the trailer is stuck
+fail-arc-wide,The turning arc was too wide so the trailer is stuck
+pass-arc-correct,The turning arc was correct for this maneuver
+trening-complete,Congratulations on completing the training module
+tm2-t1-hint-body,Begin by driving along the road at the current speed limit
+tm2-t2-hint-body,In this module we will cover highway-rail grade crossings.
+tm3-1-hint-body,"Welcome to Nutrien Driver Training. In this module you will learn how to safely handle making turns on s-curves while in a high center of gravity vehicle. This module is different from TM-HighCog 1 (Name will be changed), in this version you will be driving a tall vehicle with an extra high center of gravity, so you will have to be even more vigilant than for other high center of gravity."
+tm3-2-hint-body,"Begin by driving along…."
+tm3-3-hint-body,"The traffic light ahead has just changed; make sure to stop here."
+tm3-4-hint-body,"Continue making the turn."
+tm3-5-hint-body,"Good, you stopped in time for the light."
+tm3-6-hint-body,"It looks like you didn't stop in time for the light. Make sure to reduce your speed when approaching intersections."
+tm3-7-hint-body,"A common behavior of drivers is to attempt to â€œmake the lightâ€ by speeding up."
+tm3-8-hint-body,"When approaching a set of lights you must be aware of you current speed and be prepared to stop if the light changes suddenly."
+tm3-9-hint-body,"Your current vehicle has a high center of gravity, so it is important to take turns carefully due to the danger of the rolling over."
+tm3-10-hint-body,"It looks like you didn't stop in time for the light. Make sure to reduce your speed when approaching intersections."
+tm3-11-hint-body,"23% of truck accidents are caused by travelling too fast for conditions. Be prepared to stop at traffic lights, and do not accelerate through traffic lights."
+tm3-12-hint-body,"That concludes the High center of gravity turn scenario. Press continue to go back to scenario selection."
+tm3-13-hint-body,"In corners, it is better to reduce speed so as not to lose control of the vehicle.<br><color=green>BO: Use the speed controller to set the speed below 20 mph to avoid losing control of the vehicle."
+tm4-t2-hint-body,"The strap has failed and the tote has fallen and is blocking traffic. Please find a safe place to pull the vehicle over. <br><color=green> VO: Please find a safe place to pull the vehicle over"
+tm4-t3-hint-body,First you must engage your vehicle's hazard light system.<br><color=green> VO: Use hazard lights button to activate emergency hazard lights.
+tm4-t4-hint-body,"Next, call your supervisor and highway maintenance to notify them of the incident."
+tm4-t5-hint-body,"You will most likely be stopped for more than 10 mins, so you must place your warning triangles and flares.<br><color=green>VO: Use your inventory to place warning triangles and flares."
+tm4-t6-hint-body,Flag off the area that contains the tote (Hi Viz). <br><color=green> VO: Use your inventory to flag area.
+change-vehicle,Change Vehicle
+change-time,Change Time
+change-weather,Change Weather
+main-menu,Main Menu
+congratulation,Congratulations
+tutorial-scene-btn,Tutorial
+dialogue-title-default,Hint
+dialogue-body-default,This is a hint!
+tm2-t3-hint-body,"The traffic light ahead has just changed. Make sure to stop here."
+tm2-t4-hint-body,"Stop at the crossing barrier, at least 15 feet from the barrier."
+tm2-t5-hint-body,"Collisions between highway vehicles and trains have been, until recently (1996), the greatest source of injuries and fatalities in the railroad industry."
+tm2-t6-hint-body,"After a train passes, wait for gates to fully rise and for all lights to stop flashing before your cross."
+tm2-t7-hint-body,Use the gas pedal to continue forwards.
+tm2-t8-hint-body,"The barriers are raised, but you are required stop and check if it is safe to cross before proceeding. Trains always have priority over crossings."
+tm2-t9-hint-body,Always check both ways before committing to move through the rail crossing.
+tm2-t10-hint-body,You should never assume there is only a single train coming from a single direction. Always check both ways before proceeding through the rail crossing.
+tm2-t11-hint-body,That concludes the Level railroad crossing . Press continue to go back to scenario selection
+tm2-t12-hint-body,Proceed when it is clear
+run-red-light,Make sure to stop for traffic lights
+dialogue-button-default,Continue
+traffic-lights-warning-body,Make sure to stop at traffic lights
+traffic-lights-reset-body,"You failed to stop at traffic light. You need to retake the traffic light test again; make sure to stop at traffic lights next time."
+traffic-lights-press-gas,Press the gas button to start moving.
+traffic-lights-failed,You ran a red light. Let's repeat the training at the next traffic light.
+traffic-lights-press-brake,"The traffic light ahead has just changed; make sure to stop here."
+scurve-traffic-lights-warning-body,"Here is a traffic light that is about to change. Although we are going less than the speed limit, we do not want to accelerate because there is a chance that the vehicle will skid in the bend in these conditions. "
+scurve-traffic-lights-success-body,23% of truck accidents are caused by travelling too fast for conditions. 
+traffic-lights-importance-warning-body,It is important to go slow enough to be able to stop when approaching traffic lights.
+traffic-lights-outro-body,That concludes the s-curve scenario. Press continue to go back to scenario selection
+tm2-move-after-traffic-lights-body,Traffic lights have changed to green. You are safe to drive again.<br><color=green>VO: Use the gas button to move the vehicles again.
+turn-signal-hint,"You didn't use your signal light before turning, always make sure to use your signal light before making your turn."
+finished-training-module-body,"Here are training modules covering the scenarios that you missed in the test. You must complete these modules and try the assessment again"
+app-completed-body,"Well done, you have completed this driver training application"
+assessment-mode-available-body,You are now able to take the assessment again
+assessment-mode-available-button,Ok
+assessment-module-complete,This section of the assessment is now complete
+tm4-welcome-body,Welcome to Nutrien driver training. In this section we will look at the fallen cargo scenario.
+tm4-start-moving-body,Begin by driving along the road at the current speed limit - 30 mph.
+explainer-1,"In this application you will learn how to control your vehicle on the road. The application will place you in a set of different potential hazard scenarios, and the application will evaluate your ability to deal with these situations based on the decisions you make on the road. You will be using different types of vehicles so make sure to always pay attention to your surroundings. And remember that safety always comes first."
+explainer-2,"This application consists of three parts:<br>1 - Tutorial<br>2 - Assessment<br>3 - Training"
+explainer-3-title,Tutorial
+explainer-3,"In the tutorial, you will learn everything about how to use the application itself, and how the application simulates real life events. You will be taught how to use the controls for your vehicle in order to accelerate, decelerate and steer your vehicle. You will also be taught how to control your camera to turn your head while in the vehicle in order to view the surroundings. You should pay close attention to the tutorial to understand the controls and how to use the application properly, but you can always repeat the tutorial if you want to."
+explainer-4-title,Training
+explainer-4,"There are multiple different training scenarios in the application. Each training module will go through a specific hazard situation and teach you how to deal with that specific situation. Training will vary between driving skills and safety skills, so make sure to visit the training section if you need to learn how to deal with any of the hazard situations that you encounter in the assessment mode."
+explainer-5-title,Assessment
+explainer-5,"In the assessment mode you will be tested at a very high level in multiple hazardous situations such as safety measurement, driving skills or generic situations such as interacting with the surrounding environment and reacting to other driver's mistakes. At the end of the assessment you will see your results based on how you performed during each scenario that showed up in the assessment mode. To pass the assessment, you must succeed at all of the tests you encounter in the assessment mode. If you fail the assessment you can always go to the training center, to learn how to deal with specific scenarios you failed in the assessment and try again."
+tm2-look-left-body,Now look to the left and check for incoming trains
+tm2-look-right-body,Now look to the right and check for incoming trains
+tm2-failed-brake-in-place-body,You have failed to brake at least 15 ft away from the train crossing intersection. You will be reset.
+tm2-failed-look-to-sides-body,You have failed to check for incoming trains from both sides. You will be reset.
+tm2-failed-move-after-trains-pass-body,You have failed to wait for crossing clearance before moving again. You will be reset.
+tm2-failed-unknown-body,You have failed the train crossing intersection.
+tm5-intro,"Welcome to the Field Approach module. You will learn how to navigate entrances with narrow roads and steep shoulders safely, and what to do if you encounter a hazard."
+tm5-practice,"Now we’ll practice what we’ve learned. This time no hints will be given and you’ll handle the situation yourself."
+tm5-press-gas-1,"Press and hold the highlighted Gas button to start driving"
+tm5-lets-enter-farm,"Let's enter the farm and see what happens. Press Continue to take this turn."
+tm5-select-highlighted-route,Press the button to see what happens if we take the highlighted route
+tm5-select-highlighted-continue,"When the entrance is too narrow, we should look for another entrance. Press continue to keep driving."
+tm5-select-highlighted-path,Press Continue to see what happens if we take this turning arc
+tm5-cameraShower-1,View the turn. You can change the viewpoint by pressing the left and right buttons.
+tm5-st1,"You cannot ignore the entrance, you must inspect it carefully before deciding to drive past or drive into it. Press 'Try again' to be reset to the start of the practice phase."
+tm5-st2,"You need to exit your vehicle to properly inspect the entrance. Press 'Try again' to be reset from the beginning of practice phase."
+tm5-tooFar,"You stopped too far from the intersection"
+tm5-warning-1,"Before entering the farm, check for oncoming traffic. Also make sure that you have enough space to turn around and exit safely."
+tm5-brake,"We need to inspect the entrance. Press the highlighted Brake button to stop your vehicle and prepare to exit and inspect the entrance."
+tm5-exit-vehicle,"Let's inspect the entrance. Press the 'Exit Vehicle' button to exit your vehicle and inspect the entrance."
+tm5-exit-vehicle-practice,"Let's exit the vehicle to inspect the entrance."
+tm6-st1," Welcome to Nutrien driver training. In this module you will learn how to drive safely on roads with soft shoulders."
+tm6-brake,"In the front we can see a stop sign. You have to stop before the stop sign in any case, even if you don't see a threat. Hold down the Brake button to stop"
+tm6-gas,"After you have stopped and made sure there are no threats, you can continue driving. Press the Gas button to do this"
+tm6-st2,"Soft shoulders can’t support the weight of heavy vehicles like this. If we pull over with our wheels on the soft shoulder, the vehicle can tip over causing a very dangerous hazard."
+tm6-st3,"On a narrow road you can collide with other cars.When a car appears in front of you on a narrow road you need to stop at the curb and let it pass."
+tm6-st3-way,"You need to stop at the curb, but do not drive onto it. It is dangerous for heavy vehicles to stop on soft shoulders."
+tm6-st4,"When you stop, make sure the oncoming car has passed before you continue"
+tm6-st5,"Now that there are no more oncoming cars, we can continue our drive"
+tm6-st6,"Next we will show what can happen if we stop on the soft shoulder"
+tm6-st6-way,"The situation is the same, but this time we'll go a little off the road to let the oncoming car pass"
+tm6-st7,"As we can see, if we stop on the soft shoulder, there is a great danger that due to the weight of the car and the instability of the curb, our car could roll over"
+tm6-st8,"Now we’ll practice what we’ve learned. This time no hints will be given and you’ll handle the situation yourself."
+tm6-st9,"You did not stop at the stop sign"
+tm6-st9-gas,"You can continue driving. Press the Gas button to do this"
+tm6-st10,"Which of these options is more appropriate for this situation"
+tm6-st10-1,"Just keep moving"
+tm6-st10-2,"Stop and wait"
+tm6-st10-3,"Pull off to the side of the road and continue driving"
+tm6-st10-4,"Partially pull off to the side of the road and stop"
+tm6-st10-1-result,"On a narrow road there is a high probability of collision with an oncoming car"
+tm6-st10-2-result,"You have chosen the safest option"
+tm6-st10-3-result,"As we can see, if we stop on the soft shoulder, there is a great danger that due to the weight of the car and the instability of the curb, our car could roll over"
+tm6-st10-4-result,"As we can see, if we stop on the soft shoulder, there is a great danger that due to the weight of the car and the instability of the curb, our car could roll over"
+tm6-st11,"You have successfully completed the training"
+tm1-st1-intro,"Welcome to Nutrien Driver Training. In this module you will learn how to safely handle making turns on s-curves while in a high center of gravity vehicle."
+tm1-st2,"We are approaching an s-curve, look at the sign there. It says the speed limit is 30mph so let’s lower our speed to that. Press the highlighted brakes button to reduce your speed from 40mph to 30mph, then we will continue driving."
+highcog-tip-at-speed-limit,"Our vehicle has tipped over, even though we followed the advised speed limit on the sign! This is because these speed limits are for regular vehicles, but we are in a truck with a high center-of-gravity. We therefore need to reduce our speed to at least 10mph below the speed limit in order to avoid such a hazard. Press continue to reset your vehicle, and make sure to slow down to at least 10mph below the speed limit."
+highcog-tip-at-speed-limit-2,"The speed of the truck can be further reduced depending on its type and load weight."
+tm1-st3,"Our vehicle has tipped over! Even though we followed the advised speed limit on the sign. This is because these speed limits are for regular vehicles, but we are in a vehicle with a higher center of gravity which means we need to lower our speed 10mph-15mph lower than what the sign advises, in order to avoid a hazard like this one. Press continue to reset your vehicle and continue the module, and remember to hold down the brakes for longer to slow your speed down further."
+tm1-st4,"Now we will begin the practice phase. We will practice doing these turns while following the correct procedures without any hints."
+tm1-st4-question,"Use the gas and brake buttons to set an appropriate speed for this situation as shown on the speedometer, then press Continue."
+tm1-st5-tooHigh,"Our vehicle has tipped over! You didn’t reduce your speed enough, remember that because we are in a high centre of gravity vehicle, we need to reduce our speed further than the sign advises. Press continue to try again from the beginning of the practice phase."
+tm1-st5-tooLow,"You have chosen too low a speed, this may create other difficult situations on the road. Press the continue button and try again from the beginning of the practice phase."
+tm1-st6,"Good job! Let's take one more s-curve turn"
+tm1-st7-tooHigh,"Our vehicle has tipped over! You didn’t reduce your speed enough, remember that because we are in a high centre of gravity vehicle, we need to reduce our speed further than the sign advises. Press continue to try again from the beginning of the practice phase."
+tm1-st7-tooLow,"You have chosen too low a speed, this may create other difficult situations on the road. Press the continue button and try again from the beginning of the practice phase."
+tm1-st8,"Good job! You lowered your speed appropriately for each s-curve and avoided the hazards. Congratulations on completing the module!"
+tm1-assess-st1-intro,"Welcome to Nutrien Driver Training. In this module you will be assessed on safely handling s-curves in a high center-of-gravity vehicle."
+tm-1-fail-speed-low,Speed too low
+tm-1-fail-speed-high,Speed too high
+tm3-st1-intro,"Welcome to Nutrien Driver Training. In this module you will learn how to safely handle making turns on s-curves while in a high center of gravity vehicle. This module is different from TM-HighCog 1 (Name will be changed), in this version you will be driving a tall vehicle with an extra high center of gravity, so you will have to be even more vigilant than for other high center of gravity."
+tm3-st2,"We are approaching an s-curve, look at the sign there. It says the speed limit is 30mph,but we remember to specify less speed than specified, so let’s lower our speed to that. Press the highlighted brakes button to reduce your speed from 40mph to 20mph, then we will continue driving."
+tm3-st3,"Our vehicle has tipped over! Even though we followed the advised speed limit on the sign. This is because these speed limits are for regular vehicles, but we are in a vehicle with a higher center of gravity which means we need to lower our speed 15mph-20mph lower than what the sign advises, in order to avoid a hazard like this one. Press continue to reset your vehicle and continue the module, and remember to hold down the brakes for longer to slow your speed down further."
+tm3-st4,"Now we will begin the practice phase. We will practice doing these turns while following the correct procedures without any hints."
+tm3-st5-tooHigh,"Our vehicle has tipped over! You didn’t reduce your speed enough, remember that because we are in a high centre of gravity vehicle, we need to reduce our speed further than the sign advises. Press continue to try again from the beginning of the practice phase."
+tm3-st5-tooLow,"You have chosen too low a speed, this may create other difficult situations on the road. Press the continue button and try again from the beginning of the practice phase."
+tm3-st6,"Good job! Let's take one more s-curve turn"
+tm3-st7-tooHigh,"Our vehicle has tipped over! You didn’t reduce your speed enough, remember that because we are in a high centre of gravity vehicle, we need to reduce our speed further than the sign advises. Press continue to try again from the beginning of the practice phase."
+tm3-st7-tooLow,"You have chosen too low a speed, this may create other difficult situations on the road. Press the continue button and try again from the beginning of the practice phase."
+tm3-st8,"Good job! You lowered your speed appropriately for each s-curve and avoided the hazards. Congratulations on completing the module!"
+tm2-st1-intro,"Welcome to Nutrien Driver Training. In this module you will learn how to safely cross the railroad."
+tm2-st2,"Looks like there’s a traffic jam waiting for the train to pass. Press brake button to stop"
+tm2-st3,"Looks like the train has passed, let’s cross the track with these drivers ahead before it closes. Press continue to drive through the track with them."
+tm2-st4,"Our truck got hit because we didn’t make sure we could completely cross the tracks before crossing. The stop sign ahead caused a traffic jam preventing us from crossing fully. Let’s try again and remember to follow a set of rules before we cross each time. Press continue to be reset and hear all the rules to remember."
+tm2-st5,"When you reach 300ft of a railroad, we will display a distance counter for you to track your distance to make the correct decisions. Press the continue button to carry on with the module."
+tm2-st6,"Looks like there’s a traffic jam waiting for the train to pass. Press brake button to stop"
+tm2-st7,"Use your brakes to stop between 50ft and 15ft of the tracks. Remember we must always be stopped between 50 and 15 feet from the tracks, and never cross when traffic is present."
+tm2-st8,"The crossing barrier has opened, and we can see ahead that there is no traffic jam ahead of us preventing us from crossing safely."
+tm2-st9,"Before crossing the tracks, you must remember to always listen out, and look both left and right, directly before crossing the tracks to make sure it's safe to cross. You must follow these steps even if the gates are open and the lights aren't flashing."
+tm2-st10,"Great, it looks like it's safe to cross. Press the highlighted gas button to cross, and remember you must never change gears while crossing the track."
+tm2-st11,"Well done! You've safely crossed the tracks. Let's drive straight ahead to practice what we've learned. Press continue button to start practice phase."
+tm2-st12,"Now we will practice how to pass railroad crossings without any hints."
+tm2-st13,"You must always stop and look both ways even if the barriers aren't down."
+tm2-st14,"You must always make sure there is enough time for your vehicle to fully drive through the track in the short time the barriers are open."
+tm2-st15,"You got too close to the railroad. You need to be between 50ft and 15ft of the tracks."
+tm2-st15-wrong,"You must always stop and look both ways directly before crossing."
+tm2-st16,"We are short on time! Would you like to change gears to cross the track and make our delivery on time?"
+tm2-st17,"Yes"
+tm2-st18,"No"
+tm2-st19,"You need remember to never change gears when crossing train track"
+tm2-st20,"Great! You need remember to never change gears when crossing train track"
+tm2-st21,"You shouldn't ignore stop signs, press gas to continue driving"
+tm2-st22,"Well done! You've safely crossed the tracks!"
+tm4-st-correct,"Correct."
+tm4-st1,"Welcome to Nutrien Driver Training. In this module you may be faced with the situation of cargo becoming loose and falling while in transit."
+tm4-st2,"The first step to take in this situation is to pull over. Press brakes to pull over onto the hard shoulder"
+tm4-st3,"The next step right after pulling over is to turn on our hazard lights, press the highlighted hazard button on your screen to enable your vehicles hazard lights."
+tm4-st4,"If your vehicle is going to be stopped for more than ten minutes you must put out your hazard cones or warning triangles. We will most likely be here for more than ten minutes, so let's put out our warning triangles. We must do this within 10 minutes of the hazard occurring. Press the continue button to move on to the next step."
+tm4-st5-inventory,"When exiting the vehicle, make sure you are wearing your ANSI Class 2 Hi-Vis vest. Press the inventory button"
+tm4-st5,"When exiting the vehicle, make sure you are wearing your ANSI Class 2 Hi-Vis vest. Press highlighted button to choose your ANSI Class 2 Hi-Vis vest on."
+tm4-st6,"Okay, lets exit the vehicle. Press the highlighted exit vehicle button when you are ready to exit."
+tm4-st7,"Use the up and down arrows to change camera position"
+tm4-st8,"We need to open up the inventory to retrieve and place our hazard cones. Press the highlighted inventory button on your screen."
+tm4-st9,"A warning triangle must be placed approximately 10ft from the behind of the vehicle on the hard shoulder. The triangle should face approaching traffic. To place the warning triangle, click on the highlighted item in your inventory, and then click the highlighted area on the ground."
+tm4-st10,"Next a warning triangle must be placed approximately 100ft (or 40 paces) in front of the vehicle on the hard shoulder. The triangle should face approaching traffic."
+tm4-st11,"Next, a warning triangle must be placed approximately 100ft from the behind of the vehicle on the hard shoulder. The triangle should face approaching traffic."
+tm4-st11-call,"Next, we need to call our supervisor and highway maintenance to notify them of the incident. Press the highlighted call button on your screen."
+tm4-st12,"Great job, now we will put you back into a similar scenario for you to practice without any hints."
+tm4-st13,"Start practice"
+tm4-st14,"You cannot ignore the hazard, you must deal with it appropriately."
+tm4-st15,"The first step after pulling over is to enable your hazard lights! Press the retry button to try again."
+tm4-st16,"Hi vis vest has been equipped"
+tm4-st17,"Wrong answer, we must always be wearing our ANSI Class 2 Hi-Vis vest. Press the retry button to try again."
+tm4-st18,"The next step is to exit the vehicle so we can place our warning triangles! Press the retry button to try again."
+tm4-st19,"Wrong, we need to place our first warning triangle which should be placed 10ft behind our vehicle and always be facing approaching traffic. Press the retry button to try again."
+tm4-st20,"Wrong, the second warning triangle should be placed 100ft behind our vehicle and always be facing approaching traffic. Press the retry button to try again."
+tm4-st21,"Wrong, the last warning triangle should be placed 100ft in front of our vehicle and always be facing approaching traffic. Press the retry button to try again."
+tm4-st22,"Correct. We must call our supervisor and alert highway maintenance after placing all the warning triangles. Congratulations on completing this module."
+tm4-st23,"Wrong, the next step is to call the supervisor and alert highway maintenance. Press the retry button to try again."
+tm4-st1-strap,"Welcome to Nutrien driver training. In this section, we will look at the securing cargo scenario. In this scenario, we are securing cargo to a heavy-duty truck."
+tm4-st2-strap,"Use the left and right arrows to switch camera position. When you feel the cargo is fully secured, press the ready button."
+tm4-st3-strap,"Grab a securement device by clicking on the pile of securement devices, and click the cargo on the trailer to secure it down. Use the left/right arrow buttons to switch to the trailer view."
+tm4-st4-strap,"You have only used 1 securement device on your cargo, it is unsafe to use less than 2 securement devices when securing cargo. Always use a minimum of 2 securement devices for each individual piece of cargo."
+tm4-st4-toomuch-strap,"You'll need 2 securement devices on your cargo. Always use a minimum of 2 securement devices for each individual piece of cargo or row of cargo."
+tm4-st5-strap,"Well done, that is correct! It is unsafe to use less than 2 securement devices when securing cargo. Always use a minimum of 2 securement devices for each individual piece of cargo."
+tm4-st6-strap,"To prevent any accidents from occurring on the drive the load must be secured properly before setting off."
+tm4-st7-strap,"Let’s look up close to the securement devices to make sure they are all secured safely. Use the left/right buttons to view different angles. If you see a securement device which isn’t safe, click on it to replace it, otherwise press the ready button to move on."
+tm4-st8-strap,"You didn’t notice the damaged securement device, press the replace button to fix that."
+tm4-st9-strap," Well done, you have successfully secured the cargo onto the truck!"
+replace,"Replace"
+tut-st1,"Welcome to the Nutrien Driver Training Tutorial. In this part of the application you’ll be taught all the main features and controls of this training application. Please follow the instructions carefully."
+tut-st1-1,"This application will use the on-rails movement system, this means almost all turns will be driven automatically."
+tut-st1-2,"Holding gas will increase your vehicles speed and accelerate, while using brakes will decrease your speed and can be used to fully brake."
+tut-st2,"Press and hold the highlighted gas button to increase your speed, watch the speedometer as it increases to 20 mph"
+tut-st3,"If you want to speed up, you should hold the gas again"
+tut-st4,"Press and hold the highlighted brakes button to decrease your speed."
+tut-st5,"Press and hold the highlighted brakes button for longer to come to a complete stop."
+tut-st6,"Sometimes you will need to turn your camera to look left or right. To do this Right-click and drag your mouse while holding right-click button toward the left and right of your screen."
+tut-st7,"Hold the Gas, to speed up the vehicle to 40 mph."
+tut-st8,"Let’s stop in the area highlighted on the road ahead of us. To do this, Press and hold the highlighted brakes button"
+tut-st9,"Phone, inventory, and hazard lights buttons will be used when the truck encounters a hazard and needs to follow instructions"
+tut-st10,"To activate your hazard lights, you would click the highlighted hazard button."
+tut-st11,"To call for professional help, emergency services, etc you would need to click the highlighted call button."
+tut-st12,"Next comes the inventory system, to use items from your inventory, first click the highlighted inventory button"
+tut-st13,"Good job, as you can see it’s opened up a table with icons displaying items your driver has in the truck.The camera automatically move to wherever you need to place the object. Now to place warning triangle, first click the highlighted icon."
+tut-st14,"If you have the correct object it will allow you to place it down. To place it down, after clicking the object in your inventory you need to use your mouse to click the highlighted area on the ground."
+tut-st14-1,"Let's place a second object."
+tut-st15,"Nice work, to place a second object, you need to click the object again from your inventory, and when you see it following your mouse, click the highlighted area on the ground."
+tutorial-completed,"Congratulations on completing the tutorial. You can now start the assessment or exit to main menu."
+assess-1,"You will be tested on each of the modules that you have been taught, you will be given a scenario via voiceover explaining a hypothetical situation and will be expected to follow the lessons you have learned in each module. In this assessment mode, your hint button has been replaced with a skip button, if there is something else to be tested on for the module we will move you to that part."
+assess-tm4-strap-init,"You must secure the cargo for this truck."
+assess-tm4-strap-1,"Too much securement devices"
+assess-tm4-strap-2,"Too little securement devices"
+assess-tm4-strap-3,"Didn't noticed the securement device"
+assess-tm4-strap-4,"Use the left/right buttons to view different angles. Press ready button to move on."
+assess-tm2-init,"You must safely cross the railroads"
+assess-tm2-1,"Failed first railroad"
+assess-tm2-2,"Failed second railroad"
+assess-tm2-3,"Failed third railroad"

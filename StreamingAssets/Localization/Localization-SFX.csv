@@ -1,0 +1,17 @@
+Key,Path,Loop,Volume
+click,SFX/click,FALSE,1
+stop,SFX/stop,FALSE,1
+smallVehicleEngine,SFX/smallVehicleEngine,TRUE,0.01
+largeVehicleEngine,SFX/largeVehicleEngine,TRUE,0.01
+PlayerVehicleStartEngine,SFX/PlayerVehicleEngineStart,FALSE,0.215
+PlayerVehicleEngine,SFX/PlayerVehicleEngineRunning,TRUE,0.215
+PlayerVehicleBreak,SFX/PlayerVehicleAirBrakes,FALSE,0.215
+PlayerVehicleAccelerating,SFX/accelerating-1,FALSE,1
+PlayerVehicleDecelerating,SFX/decelerating,FALSE,1
+popup,SFX/Popup,FALSE,0.215
+wind,SFX/ambientWindy,TRUE,0.01
+road,SFX/city-ambience-9271,TRUE,0.012
+blink1Time,SFX/Blinker,FALSE,0.5
+HazardTriangle,SFX/click,FALSE,1
+FlagHiViz,SFX/click,FALSE,1
+Flare,SFX/click,FALSE,1

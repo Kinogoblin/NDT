@@ -1,0 +1,40 @@
+
+{
+    "saveData" : [
+        {
+            "key" : "assessment_result",
+            "value" : {
+                "results" : [
+                    {
+                        "hazard" : "TMHighCog1",
+                        "passed" : true
+                    },
+                    {
+                        "hazard" : "TMHighCog2",
+                        "passed" : true
+                    },
+                    {
+                        "hazard" : "TMRailroad",
+                        "passed" : true
+                    },
+                    {
+                        "hazard" : "TMCargoStrap",
+                        "passed" : true
+                    },
+                    {
+                        "hazard" : "TMCargoFall",
+                        "passed" : true
+                    },
+                    {
+                        "hazard" : "TMFarmEntrance",
+                        "passed" : true
+                    },
+                    {
+                        "hazard" : "TMSoftShoulder",
+                        "passed" : true
+                    }
+                ]
+            }
+        }
+    ]
+}
